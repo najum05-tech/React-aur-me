@@ -1,10 +1,12 @@
 
+import Chai from "./chai"
+
 
 function App() {
 
 
   return (
-   <h1>Me aur React | Muhammad Najmuddin</h1>
+   <Chai/>
   )
 }
 
